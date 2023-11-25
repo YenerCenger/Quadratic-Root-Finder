@@ -1,2 +1,4 @@
-# ilk_proje
-GitHub'a ilk proje yükleme denemesidir.
+# Kök Bulma Uygulaması
+
+Basit bir kök bulma uygylamasıdır.
+Kullanıcıdan 3 değer alır ve denklemin köklerini verir.
